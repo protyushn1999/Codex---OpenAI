@@ -12,3 +12,5 @@ Snaps from the website
 <img width="1470" alt="image" src="https://user-images.githubusercontent.com/46063095/211927267-f7bf417c-1a72-4e74-8bf2-7f8aaa78b313.png">
 
 <img width="1470" alt="image" src="https://user-images.githubusercontent.com/46063095/211927744-5201de60-1182-4ca7-907d-226509b8a09f.png">
+
+## Limitations - OpenAI API uses rate limiting in their APIs. So, after the quota gets over, we get a error with status code 429.
